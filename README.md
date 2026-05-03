@@ -1,16 +1,39 @@
-# React + Vite
+# EmailUp
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**EmailUp** is a premium, AI-enhanced email management platform designed for maximum efficiency and modern aesthetics. It transforms the standard email experience into a streamlined, intelligent workflow.
 
-Currently, two official plugins are available:
+## 🚀 Key Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- **🤖 AI-Powered Replies**: Leverage intelligent simulators to generate professional draft replies instantly, reducing the time spent on repetitive communication.
+- **📊 Advanced Analytics**: A comprehensive dashboard featuring interactive charts (powered by Recharts) to track email volume, response times, and communication patterns.
+- **🎨 Premium UI/UX**: A sleek, minimal rebranding inspired by high-end design principles, featuring a consistent Black, White, and Red color palette.
+- **⚡ High-Performance Inbox**: Built with Vite and React for lightning-fast navigation and real-time updates.
+- **🎭 Fluid Transitions**: Smooth micro-animations using Framer Motion that make the interface feel alive and premium.
+- **📧 Pro Compose**: Standardized compose functionality with support for Cc/Bcc and professional layouts.
 
-## React Compiler
+## 🛠️ Technology Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- **Core**: React 18, Vite
+- **Styling**: Vanilla CSS (Premium Design System)
+- **Animations**: Framer Motion
+- **Data Viz**: Recharts
+- **Icons**: React Icons
 
-## Expanding the ESLint configuration
+## 🏁 Getting Started
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. **Clone the repo**:
+   ```bash
+   git clone https://github.com/FROSTY-MUG/EmailUp.git
+   ```
+2. **Install dependencies**:
+   ```bash
+   npm install
+   ```
+3. **Run the development server**:
+   ```bash
+   npm run dev
+   ```
+
+---
+Built with ❤️ by Antigravity.
+
